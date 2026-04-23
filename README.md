@@ -12,7 +12,7 @@ computer vision, NLP, and building AI systems that solve real problems.
 ## Projects
 |Project|Description|Tech
 |---|----|----|
-| [Titanic Survival Predictor](#) | ML model predicting Titanic survival — 82.7% accuracy | sklearn, RandomForest |
+| [Titanic Survival Predictor](github.com/titanic-survival-ml) | ML model predicting Titanic survival — 82.7% accuracy | sklearn, RandomForest |
 | [Handwritten Digit CNN](#) | CNN classifying digits 0-9 — 98.7% accuracy, beats human baseline | PyTorch, MNIST |
 | [Movie Sentiment Analyzer](#) | NLP pipeline analyzing IMDB reviews — 90% accuracy | HuggingFace, DistilBERT |
 
