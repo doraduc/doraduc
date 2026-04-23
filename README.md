@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Shuxrat 👋
 
-<!--
-**doraduc/doraduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore year student from small Asian country building toward
+a career in ML/AI engineering. I'm passionate about deep learning, 
+computer vision, NLP, and building AI systems that solve real problems.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Machine Learning(scikit-learn, XGBoost)
+- Deep Learning(Pytorch, CNNs, RNNs, Transformers)
+- NLP (HuggingFace, BERT, sentiment analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+|Project|Description|Tech
+|---|----|----|
+| [Titanic Survival Predictor](#) | ML model predicting Titanic survival — 82.7% accuracy | sklearn, RandomForest |
+| [Handwritten Digit CNN](#) | CNN classifying digits 0-9 — 98.7% accuracy, beats human baseline | PyTorch, MNIST |
+| [Movie Sentiment Analyzer](#) | NLP pipeline analyzing IMDB reviews — 90% accuracy | HuggingFace, DistilBERT |
+
+## Tech stack
+Python · PyTorch · scikit-learn · HuggingFace · 
+XGBoost · Pandas · NumPy · Git
+
+# Currently working on
+- Kaggle competitions
+- Building a deployed ML web app
+- Preparing for ML/Ai engineering interviews
