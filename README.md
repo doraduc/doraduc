@@ -13,7 +13,6 @@ computer vision, NLP, and building AI systems that solve real problems.
 | Project | Description | Tech |
 |---|---|---|
 | [🎬 CineMatch — LIVE DEMO](https://cinematch-s92m5mf2hu8po2xyezrnfw.streamlit.app/) | AI movie review analyzer — deployed web app | Streamlit, DistilBERT |
-| [Titanic Survival Predictor](https://github.com/doraduc/titanic-survival-ml) | 82.7% accuracy · Kaggle score: 0.78468 | sklearn, RandomForest |
 | [Handwritten Digit CNN](https://github.com/doraduc/mnist-digit-cnn) | 98.7% accuracy — beats human baseline | PyTorch, MNIST |
 | [Movie Sentiment Analyzer](https://github.com/doraduc/imdb-sentiment-analyzer) | 90% accuracy on 50k IMDB reviews | HuggingFace, DistilBERT |
 Python · PyTorch · scikit-learn · HuggingFace · 
